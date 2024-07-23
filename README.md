@@ -1,3 +1,4 @@
+<img src="background.jpeg" height="500">
 <h1 align="center">Hi 👋, I'm Zidan Herlangga</h1>
 <h3 align="center">Coding is the path I walk as a ninja.</h3>
 
