@@ -1,4 +1,4 @@
-<img src="background.jpeg" height="500">
+<img src="https://raw.githubusercontent.com/zidan-herlangga/zidan-herlangga/main/background.jpeg" width="100%" height="250">
 <h1 align="center">Hi 👋, I'm Zidan Herlangga</h1>
 <h3 align="center">Coding is the path I walk as a ninja.</h3>
 
@@ -33,4 +33,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zidanherlangga"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zidanherlangga" /></a></p><br><br>
-
