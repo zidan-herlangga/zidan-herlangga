@@ -19,7 +19,7 @@ Hi, I'm Zidan Herlangga – a passionate freelance developer from Bekasi, Indone
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@dansec04_)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@zidanherlangga)
-[![instagram](https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white)](https://instagram.com/) 
+[![instagram](https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white)](https://instagram.com/@zidanherlangga_) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zidanherlangga24@gmail.com)
 
 <br>
